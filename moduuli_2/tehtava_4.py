@@ -8,4 +8,4 @@ summa = luku1 + luku2 + luku3
 tulo = luku1 * luku2 * luku3
 keskiarvo = summa / 3
 
-print(f'Kokonaislukujen summa: {summa}, tulo: {tulo} ja keskiarvo {keskiarvo:0.0f}')
+print(f'Kokonaislukujen summa: {summa}, tulo: {tulo} ja keskiarvo: {keskiarvo:0.0f}')
