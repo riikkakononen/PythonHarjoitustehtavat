@@ -2,7 +2,7 @@
 
 class Auto:
 
-    # Funktio
+    # Metodi
 
     def __init__(self, r_tunnus, max_nopeus):
         self.rekisteritunnus = r_tunnus
